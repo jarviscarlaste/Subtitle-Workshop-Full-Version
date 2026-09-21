@@ -236,4 +236,4 @@ This repository serves as the official landing page for Subtitle Workshop. The s
 **Get the most recent version of Subtitle Workshop today!**
 
 ---
-**Last updated:** 2026-09-21 19:14:26 UTC
+**Last updated:** 2026-09-21 23:09:33 UTC
